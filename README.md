@@ -26,6 +26,7 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot of the Simple Omelette Recipe page](./recipe-page-final-design.png)
+<img src="./recipe-page-final-design.png" alt="recipe page" width="200"/>
 
 ### Links
 
